@@ -9,4 +9,5 @@ import { AppStateService } from '../app-state.service';
 export class HomePage {
 
     constructor(public appStateSvc: AppStateService) {}
+    
 }
